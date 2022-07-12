@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Les différentes couleurs de l'application -->
+    <color name="vert">#30BD6F</color>
+    <color name="jaune">#FED44C</color>
+    <color name="gris">#B0B8BC</color>
+    <color name="noir">#000000</color>
+    <color name="blanc">#FFFFFF</color>
+</resources>
