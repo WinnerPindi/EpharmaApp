@@ -7,6 +7,7 @@
     <color name="noir">#000000</color>
     <color name="blanc">#FFFFFF</color>
 
-
+    <color name="darkGray">#202122</color>
+    <color name="Gray">#989CA0</color>
 
 </resources>

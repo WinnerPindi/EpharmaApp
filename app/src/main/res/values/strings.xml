@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">EphramaApplication</string>
+    <string name="app_name">Epharma</string>
+
+    <!--Page d'acceuil -->
+    <string name="home_page_title">A découvrir</string>
+    <string name="home_page_last_med_section">Dernier des mediacaments</string>
+    <string name="home_page_med_name">Nom du medicament</string>
+    <string name="home_page_med_price">Prix</string>
+
+
+    <!--Page de collection -->
+    <string name="collection_page_title">Liste des produits</string>
+
+
+    <!--Popup de description-->
+    <string name="description_title">Description du produit</string>
+
+
+    <!--Page de profil-->
+    <string name="profil_page_botton">Déconnexion</string>
+
+
+    <!--Page de connexion-->
+    <string name="connexion_email">Email</string>
+    <string name="connexion_password">Mot de passe</string>
+
+
+    <!--Page d'inscription-->
+    <string name="incription_username">Nom d\'utilisateur</string>
+    <string name="confirmation_password">Confirmation du mot de passe</string>
+
+
 </resources>
