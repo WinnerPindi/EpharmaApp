@@ -7,17 +7,31 @@
     </style>
 
     <!--Composant titre par defaut-->
-    <string name="DefaultTextStyle">
-        <item name="android:textColor">@color/lightGray</item>
+    <style name="DefaultTextStyle">
+        <item name="android:textColor">@color/darkGray</item>
         <item name="android:textSize">18sp</item>
         <item name="android:fontFamily">@font/kanit</item>
-    </string>
+    </style>
+
+
     <!--Composant sous-titre par defaut-->
-    <string name="SubtitleTextStyle" parent= "DefaultTextStyle">
+    <style name="SubtitleTextStyle" parent= "DefaultTextStyle">
         <item name="android:textColor">@color/darkGray</item>
-    </string>
+    </style>
     <!--Composant titre par defaut-->
-    <string name="TitleTextStyle" parent = "SubtitleTextStyle">
+    <style name="TitleTextStyle" parent = "SubtitleTextStyle">
         <item name="android:textSize">24sp</item>
-    </string>
+    </style>
+
+    <style name="LoadingPageTextStyle">
+        <item name="android:textColor">@color/blanc</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/kanit</item>
+    </style>
+
+    <style name="ButtonTextStyle">
+        <item name="android:textColor">@color/blanc</item>
+        <item name="android:textSize">18dp</item>
+        <item name="android:fontFamily">@font/kanit</item>
+    </style>
 </resources>
