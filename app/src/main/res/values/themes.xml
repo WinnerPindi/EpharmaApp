@@ -16,7 +16,7 @@
 
     <!--Composant sous-titre par defaut-->
     <style name="SubtitleTextStyle" parent= "DefaultTextStyle">
-        <item name="android:textColor">@color/darkGray</item>
+        <item name="android:textColor">@color/noir</item>
     </style>
     <!--Composant titre par defaut-->
     <style name="TitleTextStyle" parent = "SubtitleTextStyle">

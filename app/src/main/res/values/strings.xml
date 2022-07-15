@@ -3,9 +3,11 @@
 
     <!--Page d'acceuil -->
     <string name="home_page_title">A découvrir</string>
-    <string name="home_page_last_med_section">Dernier des mediacaments</string>
-    <string name="home_page_med_name">Nom du medicament</string>
-    <string name="home_page_med_price">Prix</string>
+    <string name="home_page_last_med_section">Derniers mediacaments</string>
+    <string name="item_med_name">Nom du medicament</string>
+    <string name="item_med_price">Prix</string>
+
+
 
 
     <!--Page de collection -->
